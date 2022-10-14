@@ -2,6 +2,7 @@ package com.bootcoding.star;
 
 import java.util.Date;
 
+
 public class StarApplication {
 
     public static void main(String[] args) {
